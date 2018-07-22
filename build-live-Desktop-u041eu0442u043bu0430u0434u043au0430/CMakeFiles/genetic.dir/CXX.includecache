@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kapiton/workspace/live/main.cpp
+iostream
+-
+MapController.h
+-
+
+/home/kapiton/workspace/live/src/Barrier.cpp
+Barrier.h
+/home/kapiton/workspace/live/src/Barrier.h
+
+/home/kapiton/workspace/live/src/Creature.cpp
+creature.h
+/home/kapiton/workspace/live/src/creature.h
+
+/home/kapiton/workspace/live/src/Loader.cpp
+Loader.h
+/home/kapiton/workspace/live/src/Loader.h
+
+/home/kapiton/workspace/live/src/MapController.cpp
+MapController.h
+/home/kapiton/workspace/live/src/MapController.h
+
+/home/kapiton/workspace/live/src/Provisions.cpp
+Provisions.h
+/home/kapiton/workspace/live/src/Provisions.h
+
+/home/kapiton/workspace/live/src/Stone.cpp
+Stone.h
+/home/kapiton/workspace/live/src/Stone.h
+
+/home/kapiton/workspace/live/src/ThreadController.cpp
+ThreadController.h
+/home/kapiton/workspace/live/src/ThreadController.h
+

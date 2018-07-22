@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kapiton/workspace/live/include/Listner.h
+
+/home/kapiton/workspace/live/include/MapController.h
+thread
+-
+vector
+-
+iostream
+-
+creature.h
+-
+structurs.h
+-
+
+/home/kapiton/workspace/live/include/creature.h
+vector
+-
+cstdlib
+-
+ctime
+-
+iostream
+-
+Listner.h
+-
+structurs.h
+-
+
+/home/kapiton/workspace/live/include/structurs.h
+
+/home/kapiton/workspace/live/main.cpp
+iostream
+-
+MapController.h
+-
+

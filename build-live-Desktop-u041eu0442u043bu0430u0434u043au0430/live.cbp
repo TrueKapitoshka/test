@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="live"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="live">
+				<Option output="/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/live" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 live"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="live/fast">
+				<Option output="/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/live" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 live/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kapiton/workspace/build-live-Desktop-u041eu0442u043bu0430u0434u043au0430/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/kapiton/workspace/live/main.cpp">
+			<Option target="live"/>
+		</Unit>
+		<Unit filename="/home/kapiton/workspace/live/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/kapiton/workspace/live/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
